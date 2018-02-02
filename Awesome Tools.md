@@ -66,6 +66,41 @@
     - Windows
 - 免费
 
+### 3. Buckaroo
+
+- 简介
+    - Buckaroo is a package manager for C/C++
+- 官网
+    - http://www.findove.com/
+- platform
+    - Mac
+    - Linux
+    - Windows
+- 免费
+
+### 4. Conan
+
+- 简介
+    - Conan, the C / C++ Package Manager for Developers
+    - The open source, decentralized and multi-platform package manager to create and share all your native binaries.
+- 官网
+    - https://conan.io/
+- platform
+    - Mac
+    - Linux
+    - Windows
+- 免费
+
+### 5. Linuxbrew
+
+- 简介
+    - The Homebrew package manager for Linux
+- 官网
+    - http://linuxbrew.sh/
+- platform
+    - Linux
+- 免费
+
 ## Design
 
 ### 1. Framer
